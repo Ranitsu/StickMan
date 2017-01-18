@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: 1b885ea0cff2d8f49816fc6b8b0df1f4
+timeCreated: 1465467451
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: postac_glowa
+    21300002: postac_ramie
+    21300004: postac_cialo
+    21300006: postac_reka
+    21300008: postac_udo
+    21300010: postac_noga
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: postac_glowa
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 361
+        width: 39
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: -0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 46.799988}
+        - {x: -17.5, y: 40.799988}
+        - {x: -19.5, y: 37.799988}
+        - {x: -19.5, y: 16.799988}
+        - {x: -14.5, y: 7.799988}
+        - {x: 17.5, y: 7.799988}
+        - {x: 19.5, y: 11.799988}
+        - {x: 19.5, y: 44.799988}
+        - {x: 15.5, y: 46.799988}
+    - name: postac_ramie
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 346
+        width: 53
+        height: 15
+      alignment: 9
+      pivot: {x: 0.86, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: postac_cialo
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 268
+        width: 15
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: postac_reka
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 15
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.86}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: postac_udo
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 248
+        width: 64
+        height: 15
+      alignment: 9
+      pivot: {x: 0.883, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: postac_noga
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 183
+        width: 15
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
